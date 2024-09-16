@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### About Me
+
+Hello, my name is Austin and I am interested in learning more about cybersecurity, software development, and large language models. In my free time, I enjoy listening to music as well as golfing. 
+
+From my profile you can see various projects I've worked on, such as the Florence As It Was Project where we are remapping Florence, Italy as it was in the 1500s using 3-D imaging!
+
 <!--
 **austinmcb1/austinmcb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
